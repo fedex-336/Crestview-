@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Crestview Bank Alert</title>
+</head>
+<body style="margin:0; padding:0; font-family: Arial, sans-serif; background-color:#f6f6f6;">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border:1px solid #dcdcdc; background-color:#ffffff;">
+    <!-- Header -->
+    <tr>
+      <td align="center" bgcolor="#004481" style="padding: 20px 0;">
+        <img src="https://dummyimage.com/160x50/004481/ffffff&text=Crestview+Bank" alt="Crestview Bank" style="display:block;">
+      </td>
+    </tr>
 
+    <!-- Greeting -->
+    <tr>
+      <td style="padding: 20px; font-size:16px; color:#333333;">
+        Hello Laine Gardner,
+      </td>
+    </tr>
+
+    <!-- Main message -->
+    <tr>
+      <td style="padding: 20px; font-size:18px; color:#333333; text-align:center;">
+        <strong>Your Crestview Bank account has been temporarily limited</strong><br><br>
+        Due to unusual activity, certain features of your account are restricted until we can confirm your identity.  
+        <br><br>
+        <b>Reference ID:</b> 987654321
+      </td>
+    </tr>
+
+    <!-- Divider -->
+    <tr>
+      <td style="padding: 10px 20px;">
+        <hr style="border:none; border-top:1px solid #e0e0e0;">
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr>
+      <td style="padding: 20px; font-size:12px; color:#777777;">
+        Crestview Bank Security Team<br><br>
+        This email was sent to: <i>[insert his email here]</i><br>
+        Please do not reply directly to this message.
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
